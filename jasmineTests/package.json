@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jasmine": "^3.6.1"
+    "jasmine": "^3.99.0"
   }
 }
